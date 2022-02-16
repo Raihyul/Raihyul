@@ -49,7 +49,7 @@
 
 ## Activies
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihyul&show_icons=true&theme=radical&border_radius=10&border_color=343942&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihyul&layout=compact&theme=radical&border_radius=10&border_color=343942)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihyul&layout=compact&theme=radical&border_radius=10&border_color=343942) <br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Raihyul)](https://solved.ac/profile/raihyul)
 
 <br />
