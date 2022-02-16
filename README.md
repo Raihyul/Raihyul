@@ -11,6 +11,13 @@
 
 <br />
 
+## Activies
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihyul&show_icons=true&theme=radical&border_radius=10&border_color=343942&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihyul&layout=compact&theme=radical&border_radius=10&border_color=343942) <br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Raihyul)](https://solved.ac/profile/raihyul)
+
+<br />
+
 ## Tech Stack
 
 ### 📚 Frameworks and Libraries
@@ -46,13 +53,6 @@
 
 ### ✔️ Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br />
-
-## Activies
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihyul&show_icons=true&theme=radical&border_radius=10&border_color=343942&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihyul&layout=compact&theme=radical&border_radius=10&border_color=343942) <br />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Raihyul)](https://solved.ac/profile/raihyul)
 
 <br />
 
