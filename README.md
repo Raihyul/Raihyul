@@ -57,7 +57,7 @@
 <br />
 
 ### Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tlompy1104@gmail.com)](malto:tlompy1104@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:wy0810@naver.com)](malto:wy0810@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tlompy1104@gmail.com)](mailto:tlompy1104@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:wy0810@naver.com)](mailto:wy0810@naver.com)
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:38F2D0,15:4AD9D9,70:6683D9,100:5955D9&height=100&section=footer)
