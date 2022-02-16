@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header)
+
 <h1 align="center">이민영 Minyeong Lee</h1>
 <h5 align="right">사용자 경험성을 우선시하는 프론트엔드 개발자</h5>
 
